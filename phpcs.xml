@@ -4,7 +4,6 @@
 
     <file>src</file>
     <file>tests</file>
-    <!-- Currently excluding everything else from PHPCS because why force the brain damage onto legacy code? -->
 
     <arg name="basepath" value="."/>
     <arg name="colors"/>
